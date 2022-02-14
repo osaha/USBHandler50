@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHDBqa5wpx1jZl0SHJ/0tPso+bGZR6OPrnn0EwT6pJtt1UaDy5kdIQStHbDOlVqvXig7N3dgqDlSLMWF9sZqew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12181.LFPC9011\\source\\repos\\USBLogHandler\\Tool1\\Tool1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12181.LFPC9011\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\12181.LFPC9011\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
